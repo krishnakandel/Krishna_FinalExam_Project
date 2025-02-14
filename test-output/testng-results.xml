@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-13T20:54:25 MST" name="Default suite" finished-at="2025-02-13T20:55:59 MST" duration-ms="93522">
+    <groups>
+    </groups>
+    <test started-at="2025-02-13T20:54:25 MST" name="Default test" finished-at="2025-02-13T20:55:59 MST" duration-ms="93522">
+      <class name="com.busyqa.selenium.finalexam.FinalExam">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.busyqa.selenium.finalexam.FinalExam@344b8190]" started-at="2025-02-13T20:54:25 MST" name="beforeSuite" finished-at="2025-02-13T20:54:25 MST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.busyqa.selenium.finalexam.FinalExam@344b8190]" started-at="2025-02-13T20:54:25 MST" name="beforeClass" finished-at="2025-02-13T20:54:31 MST" duration-ms="5978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="webDataToExcel()[pri:0, instance:com.busyqa.selenium.finalexam.FinalExam@344b8190]" started-at="2025-02-13T20:54:31 MST" name="webDataToExcel" finished-at="2025-02-13T20:55:58 MST" duration-ms="87094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDataToExcel -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.busyqa.selenium.finalexam.FinalExam@344b8190]" started-at="2025-02-13T20:55:58 MST" name="afterClass" finished-at="2025-02-13T20:55:59 MST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.busyqa.selenium.finalexam.FinalExam@344b8190]" started-at="2025-02-13T20:55:59 MST" name="afterSuite" finished-at="2025-02-13T20:55:59 MST" duration-ms="525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.busyqa.selenium.finalexam.FinalExam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
