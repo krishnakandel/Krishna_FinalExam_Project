@@ -145,3 +145,1060 @@
 [2025-02-13 20:02:730] [INFO] LoggerUtility - Switched to English version.
 [2025-02-13 20:02:857] [INFO] LoggerUtility - Switched to English version.
 [2025-02-13 20:02:719] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 20:02:781] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 21:02:854] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 21:02:581] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 22:02:787] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 22:02:726] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 23:02:568] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 23:02:467] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[2025-02-15 23:02:488] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[2025-02-15 23:02:494] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:496] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-15 23:02:499] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:500] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:502] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:502] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:505] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:507] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:510] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-15 23:02:512] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:514] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:514] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-15 23:02:516] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:517] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:518] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:518] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:524] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:525] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:527] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:528] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:535] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-15 23:02:538] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+[2025-02-15 23:02:539] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:541] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-15 23:02:543] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-15 23:02:544] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-15 23:02:547] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:548] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:549] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:550] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:569] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse--351430069\testng-customsuite.xml
+
+[2025-02-15 23:02:889] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-02-15 23:02:615] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-15 23:02:683] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-15 23:02:977] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 23:02:41] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4ba13fed: 122 ms
+[2025-02-15 23:02:43] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@651cedfb: 2 ms
+[2025-02-15 23:02:61] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@14b48f39: 17 ms
+[2025-02-15 23:02:74] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@35d114f4: 13 ms
+[2025-02-15 23:02:82] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@31183ee2: 8 ms
+[2025-02-15 23:02:82] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63f3366a: 0 ms
+[2025-02-15 23:02:819] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+[2025-02-15 23:02:853] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 26 ms.
+[2025-02-15 23:02:861] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:862] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:866] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:867] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:870] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:871] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:877] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:880] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-15 23:02:882] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-15 23:02:885] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:887] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:887] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-15 23:02:889] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:890] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:892] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:893] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:897] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:898] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:900] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:901] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:908] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-15 23:02:910] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:911] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:912] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:915] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-15 23:02:916] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-15 23:02:920] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:921] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:922] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-15 23:02:924] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-15 23:02:943] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse--1991016464\testng-customsuite.xml
+
+[2025-02-15 23:02:439] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+[2025-02-15 23:02:137] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-15 23:02:209] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-15 23:02:706] [INFO] LoggerUtility - Switched to English version.
+[2025-02-15 23:02:413] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3bcedb06: 99 ms
+[2025-02-15 23:02:414] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6f9a3325: 1 ms
+[2025-02-15 23:02:428] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@31183ee2: 13 ms
+[2025-02-15 23:02:435] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@71eff6a3: 7 ms
+[2025-02-15 23:02:442] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6294e4a6: 6 ms
+[2025-02-15 23:02:442] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@13662609: 0 ms
+[2025-02-16 11:02:25] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:33] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:716] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 11:02:750] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 11:02:554] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 11:02:603] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+[2025-02-16 11:02:630] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+[2025-02-16 11:02:633] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:634] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:638] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:638] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:640] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:643] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:649] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:650] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 11:02:652] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:655] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:656] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:657] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:664] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:665] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:666] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:667] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:670] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:671] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:672] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:672] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:683] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:684] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 11:02:685] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:685] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:687] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:688] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:690] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:691] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:694] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 11:02:696] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:713] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-907879704\testng-customsuite.xml
+
+[2025-02-16 11:02:54] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-02-16 11:02:427] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 11:02:459] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 11:02:488] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 11:02:616] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:882] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:875] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:205] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:670] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:46] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:218] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:181] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:311] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:152] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:328] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:272] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:262] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:195] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:202] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:94] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:189] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:932] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:931] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:877] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:877] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:790] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:898] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:844] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:871] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:895] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:00] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:330] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:344] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:258] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:226] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:162] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:371] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:320] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:280] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:138] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:101] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:31] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:96] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:965] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:503] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3412a3fd: 114 ms
+[2025-02-16 11:02:504] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@36ecf9f6: 1 ms
+[2025-02-16 11:02:517] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd7ec56: 12 ms
+[2025-02-16 11:02:528] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6dcee890: 10 ms
+[2025-02-16 11:02:542] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@b5ff70b: 13 ms
+[2025-02-16 11:02:543] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5709e10b: 0 ms
+[2025-02-16 11:02:184] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-02-16 11:02:202] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[2025-02-16 11:02:207] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 11:02:208] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:211] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:211] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:213] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:213] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:215] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:216] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:219] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:224] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 11:02:225] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 11:02:225] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 11:02:227] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:228] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:229] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:229] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:231] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:232] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:233] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:233] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:241] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 11:02:241] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:242] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:242] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:243] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:245] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:248] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:249] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 11:02:250] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 11:02:251] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 11:02:265] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse--985825378\testng-customsuite.xml
+
+[2025-02-16 11:02:568] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-16 11:02:121] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 11:02:157] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 11:02:745] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 11:02:843] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:593] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:577] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:193] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:153] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:839] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:881] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:404] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:407] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:946] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:225] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:763] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:774] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:316] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:428] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:978] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:81] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:616] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:646] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:267] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:316] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:894] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:335] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:933] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:50] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:560] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:697] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:209] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:214] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:730] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:732] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:323] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:301] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:780] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:929] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:473] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:505] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:18] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:999] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 11:02:488] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 11:02:724] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@29532e91: 93 ms
+[2025-02-16 11:02:727] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e691624: 2 ms
+[2025-02-16 11:02:739] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@73b8ab2c: 11 ms
+[2025-02-16 11:02:748] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a984952: 9 ms
+[2025-02-16 11:02:757] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@362cf66: 7 ms
+[2025-02-16 11:02:758] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7809b43a: 0 ms
+[2025-02-16 12:02:345] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[2025-02-16 12:02:368] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[2025-02-16 12:02:373] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:375] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:377] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:377] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:379] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:380] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:382] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:384] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 12:02:388] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 12:02:393] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:394] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 12:02:394] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 12:02:396] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:397] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:398] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:399] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:401] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:402] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:404] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:405] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:410] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:412] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 12:02:413] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:413] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:415] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:416] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:420] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:422] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:423] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 12:02:425] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 12:02:440] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse--292915632\testng-customsuite.xml
+
+[2025-02-16 12:02:762] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-16 12:02:96] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 12:02:126] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 12:02:850] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 12:02:195] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:69] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:173] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:798] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:765] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:399] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:327] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:66] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:262] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:875] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:156] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:802] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:763] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:447] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:428] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:130] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:620] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:162] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:318] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:940] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:901] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:534] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:675] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:283] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:216] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:817] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:866] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:507] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:473] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:248] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:422] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:63] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:969] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:562] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:563] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:199] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:115] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:682] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:636] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 12:02:248] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 12:02:712] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@36ecf9f6: 119 ms
+[2025-02-16 12:02:714] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@104bc677: 1 ms
+[2025-02-16 12:02:728] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6528d339: 14 ms
+[2025-02-16 12:02:736] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@713e49c3: 7 ms
+[2025-02-16 12:02:745] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5709e10b: 8 ms
+[2025-02-16 12:02:745] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@114badf0: 0 ms
+[2025-02-16 13:02:744] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:755] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:422] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 13:02:456] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 13:02:261] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 13:02:458] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:666] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:978] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:777] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:897] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:567] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:680] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:480] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:28] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:628] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:406] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:179] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:644] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:206] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:264] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:836] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:10] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:490] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:540] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:100] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:105] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:676] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:820] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:411] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:404] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:939] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:89] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:670] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:769] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:335] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:264] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:776] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:919] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:474] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:484] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:38] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:81] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:683] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:807] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:420] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:410] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[2025-02-16 13:02:445] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+[2025-02-16 13:02:453] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 13:02:454] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:457] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:457] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:460] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:460] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:465] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:467] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-16 13:02:472] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:479] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:481] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:482] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:485] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:486] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:489] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:490] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:495] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:496] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:498] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:499] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:506] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:507] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:508] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:509] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:511] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:513] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:516] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:517] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:517] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:519] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:541] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-1086995306\testng-customsuite.xml
+
+[2025-02-16 13:02:896] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-16 13:02:436] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 13:02:476] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 13:02:858] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3eb292cd: 107 ms
+[2025-02-16 13:02:881] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d8b0500: 21 ms
+[2025-02-16 13:02:899] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@30c3ae63: 16 ms
+[2025-02-16 13:02:914] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@b73433: 15 ms
+[2025-02-16 13:02:931] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3ff54f3d: 16 ms
+[2025-02-16 13:02:932] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@14c93774: 0 ms
+[2025-02-16 13:02:548] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[2025-02-16 13:02:576] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+[2025-02-16 13:02:578] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 13:02:579] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:581] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:582] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:583] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:584] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:586] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:587] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:588] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:591] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:592] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:593] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:597] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:597] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:599] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:601] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:604] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:605] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:606] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:606] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:615] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:616] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:617] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:618] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:621] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:622] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 13:02:625] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:626] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:627] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:631] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:645] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-1567975759\testng-customsuite.xml
+
+[2025-02-16 13:02:968] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-16 13:02:481] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 13:02:521] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 13:02:674] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@d3f4505: 171 ms
+[2025-02-16 13:02:715] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@748a654a: 40 ms
+[2025-02-16 13:02:748] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2db33feb: 30 ms
+[2025-02-16 13:02:765] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@58253c57: 16 ms
+[2025-02-16 13:02:784] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@40247d48: 17 ms
+[2025-02-16 13:02:784] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ff54f3d: 0 ms
+[2025-02-16 13:02:264] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 11 ms.
+[2025-02-16 13:02:303] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+[2025-02-16 13:02:309] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:310] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:313] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:314] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:316] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:317] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:322] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:325] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:327] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:330] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:330] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:331] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:332] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:333] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:335] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:337] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:340] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:340] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:342] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:343] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:350] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 13:02:353] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-16 13:02:355] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:356] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:358] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:360] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:362] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:364] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:365] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 13:02:366] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 13:02:382] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-268434060\testng-customsuite.xml
+
+[2025-02-16 13:02:703] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2025-02-16 13:02:238] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 13:02:296] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 13:02:727] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 13:02:20] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:870] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:896] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:543] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:547] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:230] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:183] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:820] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:834] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:546] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:89] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:745] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:723] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:424] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:505] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:214] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:399] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:977] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:199] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:845] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:998] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:560] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:823] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:457] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:672] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:284] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:514] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:89] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:11] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:614] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:583] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:206] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:402] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:02] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:61] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:676] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:922] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:685] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:722] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:305] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:14] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@29532e91: 91 ms
+[2025-02-16 13:02:15] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e691624: 1 ms
+[2025-02-16 13:02:30] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@73b8ab2c: 15 ms
+[2025-02-16 13:02:43] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a984952: 11 ms
+[2025-02-16 13:02:55] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@362cf66: 11 ms
+[2025-02-16 13:02:56] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7809b43a: 0 ms
+[2025-02-16 13:02:320] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:332] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 13:02:720] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 13:02:788] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 13:02:297] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 13:02:660] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:643] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:983] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:535] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:584] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 13:02:249] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 13:02:397] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:15] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:231] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:229] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:391] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:68] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:279] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:376] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:935] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:249] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:479] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:817] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:257] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:938] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:381] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:287] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:613] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:448] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:05] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:786] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:46] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:705] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:854] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:360] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:365] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:853] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:904] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:437] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:456] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:951] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:61] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:575] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:594] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:110] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:275] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+[2025-02-16 14:02:306] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+[2025-02-16 14:02:311] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 14:02:312] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 14:02:315] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:316] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:318] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:319] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:322] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:325] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-16 14:02:327] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 14:02:330] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:332] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:332] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 14:02:335] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:336] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:340] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:340] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:375] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:377] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:383] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:385] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:399] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:400] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 14:02:401] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:401] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:403] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 14:02:405] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:409] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 14:02:410] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 14:02:411] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 14:02:412] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 14:02:431] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-1262044544\testng-customsuite.xml
+
+[2025-02-16 14:02:786] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-02-16 14:02:231] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 14:02:261] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 14:02:561] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 14:02:799] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:596] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:529] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:209] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:174] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:842] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:821] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:534] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:768] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:404] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:576] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:403] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:739] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:551] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:528] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:325] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:684] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:674] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:24] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:755] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:768] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:422] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:619] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:285] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:386] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:55] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:174] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:789] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:759] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:362] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:339] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:944] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:948] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:527] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:504] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:154] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:139] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:749] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:901] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:498] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:575] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@68360fb9: 87 ms
+[2025-02-16 14:02:576] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c787389: 1 ms
+[2025-02-16 14:02:584] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3f6906f4: 8 ms
+[2025-02-16 14:02:595] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3dd591b9: 10 ms
+[2025-02-16 14:02:603] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@625f5712: 7 ms
+[2025-02-16 14:02:604] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5e62ca19: 0 ms
+[2025-02-16 14:02:235] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 14:02:243] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 14:02:552] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 14:02:589] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 14:02:54] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 14:02:356] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:224] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:456] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:121] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:358] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:464] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:776] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:561] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:654] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:443] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:870] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:602] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:704] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:509] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:696] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:309] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:481] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:977] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:16] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:691] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:873] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:613] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:921] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:644] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:653] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:240] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:430] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:49] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:128] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:732] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:706] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:339] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:323] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:69] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:148] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:731] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:711] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:292] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 14:02:309] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 14:02:886] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:55] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+[2025-02-16 16:02:78] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+[2025-02-16 16:02:81] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:83] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:85] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:86] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:88] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:88] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:90] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:92] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 16:02:94] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 16:02:103] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 16:02:104] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 16:02:105] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 16:02:107] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:108] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:109] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:110] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:117] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:118] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:121] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:121] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:128] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 16:02:130] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:132] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:133] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:136] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:137] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:140] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 16:02:141] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:142] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 16:02:144] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 16:02:163] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-1301786628\testng-customsuite.xml
+
+[2025-02-16 16:02:502] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+[2025-02-16 16:02:288] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 16:02:337] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 16:02:513] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 16:02:828] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:692] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:670] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:312] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:330] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:43] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:204] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:887] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:125] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:751] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:05] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:725] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:709] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:397] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:559] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:197] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:227] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:802] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:692] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:275] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:176] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:839] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:110] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:750] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:774] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:413] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:802] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:392] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:336] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:935] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:921] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:533] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:514] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:100] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:252] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:876] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:853] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:442] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:538] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:118] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:517] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7dd7ec56: 110 ms
+[2025-02-16 16:02:518] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6528d339: 1 ms
+[2025-02-16 16:02:529] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@22f80e36: 10 ms
+[2025-02-16 16:02:538] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@322ab6ce: 9 ms
+[2025-02-16 16:02:551] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79135a38: 12 ms
+[2025-02-16 16:02:552] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@77fceac6: 0 ms
+[2025-02-16 16:02:678] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 16:02:686] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 16:02:144] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 16:02:202] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 16:02:07] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 16:02:203] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:322] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:391] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:982] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:890] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:534] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:631] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:186] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:157] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:754] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:00] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:626] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:783] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:570] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:625] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:231] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:335] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:870] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:970] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:468] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:426] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:993] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:35] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:571] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:583] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:176] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:301] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:774] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:927] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:442] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:498] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:02] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:27] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:509] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:673] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:196] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:309] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:880] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 16:02:153] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 16:02:627] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:159] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:167] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:189] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 17:02:218] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\WINDOWS\system32\config\systemprofile\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 17:02:304] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 17:02:398] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:150] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:260] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:968] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:226] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:745] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:759] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:334] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:317] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:993] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:363] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:151] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:259] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:952] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:32] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:521] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:652] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:78] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:171] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:649] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:738] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:269] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:383] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:892] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:890] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:432] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:616] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:146] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:191] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:712] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:742] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:346] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:560] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:183] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:244] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:736] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:954] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:456] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:506] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:13] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:674] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:681] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:712] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\eclipse-workspace\selenium.finalexam\src\test\resources\JenkinsTestFE.xml
+
+[2025-02-16 17:02:475] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 17:02:513] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 17:02:76] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 17:02:206] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:79] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:84] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:828] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:783] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:464] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:380] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:17] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:944] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:605] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:733] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:382] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:379] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:970] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:931] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:554] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:648] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:192] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:186] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:910] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:792] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:457] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:536] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:220] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:98] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:794] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:932] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:656] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:595] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:241] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:204] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:890] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:891] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:564] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:477] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:73] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:40] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:653] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:559] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:244] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:406] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 44 ms.
+[2025-02-16 17:02:491] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 43 ms.
+[2025-02-16 17:02:511] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:513] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 17:02:521] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:524] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:526] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:528] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:530] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:536] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2025-02-16 17:02:538] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.beforeClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:541] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 17:02:543] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:544] [WARN] Configuration - Detected a static method [com.busyqa.selenium.finalexam.FinalExam.afterClass()]. Static configuration methods can cause unexpected behavior.
+[2025-02-16 17:02:546] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:547] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:553] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:554] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:557] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:558] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:559] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:560] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 17:02:572] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:574] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:574] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:574] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:576] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 17:02:577] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-02-16 17:02:580] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-02-16 17:02:582] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 17:02:584] [INFO] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-02-16 17:02:586] [INFO] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-02-16 17:02:611] [INFO] Utils - [TestNG] Running:
+  C:\Users\Acer\AppData\Local\Temp\testng-eclipse-287583594\testng-customsuite.xml
+
+[2025-02-16 17:02:106] [INFO] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2025-02-16 17:02:653] [INFO] WebDriverManager - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+[2025-02-16 17:02:702] [INFO] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Acer\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+[2025-02-16 17:02:171] [INFO] LoggerUtility - Switched to English version.
+[2025-02-16 17:02:92] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:932] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:938] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:577] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:645] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:415] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:347] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:102] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:221] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:474] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:139] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:127] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:109] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:864] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:952] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:552] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:658] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:154] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:150] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:756] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:666] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:266] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:603] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:171] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:457] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:80] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:616] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:200] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:132] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:684] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:742] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:376] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:307] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:215] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:350] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:381] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:661] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:548] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:828] [INFO] LoggerUtility - Switched to iframe.
+[2025-02-16 17:02:754] [INFO] LoggerUtility - Switched back to Default Content.
+[2025-02-16 17:02:270] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73b8ab2c: 442 ms
+[2025-02-16 17:02:272] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5600a278: 1 ms
+[2025-02-16 17:02:294] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@c30f26d: 21 ms
+[2025-02-16 17:02:302] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3815a7d1: 8 ms
+[2025-02-16 17:02:345] [INFO] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@361f26b4: 43 ms
+[2025-02-16 17:02:346] [INFO] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1d9ff1e2: 1 ms

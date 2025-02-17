@@ -12,6 +12,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterSuite;
@@ -28,10 +29,8 @@ public class FinalExam {
 
 	static WebDriver driver;
 	WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-	String excelFilePath = "C:\\Users\\Acer\\eclipse\\x1.xlsx";
+	String excelFilePath = "C:\\Users\\Acer\\eclipse\\finmum.xlsx";
 	String screenshotPath;
-	
-	int count = 0;
 	
 	Workbook workbook = new XSSFWorkbook();
 	
@@ -47,11 +46,12 @@ public class FinalExam {
 
 		// Switch to English
 		WebElement englishLink = driver.findElement(By.xpath("//a[contains(text(), 'English')]"));
-		
 		englishLink.click();
 		
-		// Extent Report entry.
+		// Log4j entry
 		LoggerUtility.logInfo("Switched to English version.");
+		
+		// Extent Report entry.
 		test.log(Status.INFO, "Page opened successfully.");
 		
 		// To locate the <tbody> under the table in need.
@@ -77,13 +77,14 @@ public class FinalExam {
 					excelSheetName = excelSheetName.substring(0, 31);// it will extract characters from index 0 up to
 																		// (but not including) index 31
 				}
-				System.out.println("SheetName==>" + excelSheetName);
+				//System.out.println("SheetName==>" + excelSheetName);
 
 				links.get(j).click();
-
 				WebElement iframe = driver.findElement(By.tagName("iframe"));
-
 				driver.switchTo().frame(iframe);
+				
+				// Log4j entry
+				LoggerUtility.logInfo("Switched to iframe.");
 			
 				screenshotPath = ExtentReportManager.captureScreenshot(driver, excelSheetName); //second argument is just the screenshot name, any string can be passed.
 				test.addScreenCaptureFromPath(screenshotPath);
@@ -106,17 +107,19 @@ public class FinalExam {
 					Row excelRow = sheet.createRow(k);
 					// System.out.println("Table Data");
 					for (int m = 0; m < cols.size(); m++) {
-						System.out.print(cols.get(m).getText() + "   ");//to print the table values in console.
+						//System.out.print(cols.get(m).getText() + "   ");//to print the table values in console.
 						
 						Cell cell = excelRow.createCell(m);
 						cell.setCellValue(cols.get(m).getText());
 					}
 				}
-
-				count++;
+			
 				driver.switchTo().defaultContent(); // close button of the popup was not in the iframe and it is in main
 													// page, so before clicking the button, it is required to go back to
 													// the default content.
+				
+				// Log4j entry
+				LoggerUtility.logInfo("Switched back to Default Content.");
 
 				WebElement closeButton = driver.findElement(By.xpath("//button[text()='Fermer']"));
 				closeButton.click();
@@ -138,9 +141,23 @@ public class FinalExam {
 	@BeforeClass
 	public static void beforeClass() throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
+		
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		Thread.sleep(2000);
+		
+		
+		//The screenshots were blank while running from Jenkins. Then Above segment was replaced with the following segment and the content of the screenshot was seen.
+	/*
+		ChromeOptions options = new ChromeOptions();
+		options.addArguments("--headless=new"); // Ensures proper rendering
+		options.addArguments("--window-size=1920,1080"); // Prevents blank screenshots
+		options.addArguments("--disable-gpu"); // Useful for headless mode
+		options.addArguments("--no-sandbox"); // Fixes issues in Jenkins
+		options.addArguments("--disable-dev-shm-usage"); // Fixes crashes in Docker
+		driver = new ChromeDriver(options);
+		*/
+		
 	}
 
 	@AfterClass
@@ -159,26 +176,3 @@ public class FinalExam {
     }
 }
 
-/*
- * 1. Go to the below link
- * https://www.finmun.finances.gouv.qc.ca/finmun/f?p=100:3000::RESLT::::
- * Identify the below mentioned section: 1. Switch to the English version. 2.
- * Get first 5 tables from the section. Perform below steps for each table
- * section. a. From each table click on the Name link. b. Create an excel tab
- * with same name as shown in the link – For Example excel tab name should be
- * Redemption. c. New page will be displayed which has a small table in it. d.
- * Make sure you copy this table in a excel tab you created in step b. e.
- * Finally take screen shots of Step a and Step c and put them in extent report.
- * (Just to clarify your extent report will have 2 screen prints captured for
- * each and every record in 5 tables. f. Finally create a Jenkins pipeline and
- * run this code in Jenkins and make sure there are no error. g. Grace marks if
- * you could also incorporate any kind of Logs using Log4j. After completing the
- * exam send me all the code via email and also upload your code in Git hub
- * repository - your new repository should be called
- * “yourName_FinalExam_Project”.
- * 
- */
-
-/*
- * I have Maven, TestNT, Selenium installed and I have already one project going on. Now I need to write a code to implement Extent report and add screenshot in this report. Can you write a code for this.
- * */
