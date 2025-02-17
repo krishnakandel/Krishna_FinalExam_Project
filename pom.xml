@@ -96,6 +96,7 @@
 
 	</dependencies>
 
+<!-- This build section is needed to build from Jenkins. -->
 
 	<build>
 		<plugins>
@@ -128,5 +129,5 @@
 		</plugins>
 	</build>
 
-
+<!-- This above build section is needed to build from Jenkins. -->
 </project>
